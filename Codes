@@ -1,0 +1,44 @@
+<html>
+<head>Search Engine Title Goes Here<title>
+</title>
+</head>
+<body>
+<p>
+This is the body of your website.
+</p>
+</body>
+</html>
+  html>
+<head>
+<title>Search Engine Title Goes Here</title>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+<p>
+This is the body of your website.
+</p>
+</body>
+</html>
+  body {background: #ffffff; margin: 0; padding: 0;} 
+a {color: #2b2bf6;}           
+#container {width: 900px; margin: 0; padding: 0; background: #dddddd;}           
+#header {width: 900px; 	height: 150px; 	margin: 0; padding: 0; border: 0; background: #f346e1;}           
+#sidebar {width: 200px; height: 400px; 	margin: 0; padding: 0; border: 0; float: left; background: #f0e811;}           
+#content {width: 700px; height: 400px; 	margin: 0; padding: 0; border: 0; float: left; background: #8be0ef;}           
+#footer {width: 900px; 	height: 70px; 	margin: 0; padding: 0; border: 0; float: left; background: #000000; clear:both;}                            
+<html>
+<head>
+<title>Search Engine Title Goes Here</title>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+<div id="container"> </div>
+<div id="header"> Header Goes Here</div>
+<div id="sidebar"> Left Navigation Goes Here</div>
+<div id="content"> <p>Content Goes Here</p></div>
+<div id="footer"> Footer Goes Here </div>
+</body>
+</html>
+
+              
+  
